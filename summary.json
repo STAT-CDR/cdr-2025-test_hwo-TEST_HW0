@@ -1,0 +1,11 @@
+{
+  "nota_total": 0,
+  "nota_maxima": 0,
+  "resultados": {
+    "ejercicio_1": {
+      "estado": "Fallido",
+      "puntos": 0,
+      "mensaje": "La lista_t1 debe contener los elementos correctos"
+    }
+  }
+}
